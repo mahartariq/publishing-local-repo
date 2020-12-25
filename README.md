@@ -1,4 +1,4 @@
 # publishing-local-repo
-demo publish local repo using terminal   
+demo publish local repo using terminal      
    
   
